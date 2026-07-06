@@ -1,6 +1,6 @@
-/app/target/
-/app/.env
-/app/.env.*
+/target/
+/.env
+/.env.*
 **/Cargo.lock.bak
 
 # never commit any local env file
